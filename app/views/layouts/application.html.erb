@@ -9,7 +9,29 @@
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
+  <nav class="navbar navbar-dark bg-dark">
+    <a class="navbar-brand" href="/">Course Management</a>
+
+    <form class="form-inline">
+      <div class="btn btn-outline-secondary">
+        <%= link_to 'Courses', courses_path, :class => "btn" %>
+      </div>
+      <div class= "btn btn-outline-secondary">
+        <%= link_to 'Sections', sections_path, :class => "btn" %>
+      </div>
+      <div class= "btn btn-outline-secondary">
+        <%= link_to 'Students', students_path, :class => "btn" %>
+      </div>
+    </form>
+
+
+  </nav>
+
+
   <body>
+    <div class="jumbotron">
     <%= yield %>
+    </div>
   </body>
+
 </html>
