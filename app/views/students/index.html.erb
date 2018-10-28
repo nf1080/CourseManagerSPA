@@ -2,7 +2,7 @@
 
 <h1>Students</h1>
 
-<table>
+<table class="table">
   <thead>
     <tr>
       <th>Name</th>
@@ -12,12 +12,13 @@
     </tr>
   </thead>
 
+
   <tbody>
     <% @students.each do |student| %>
       <tr>
         <td><%= student.name %></td>
         <td><%= student.stu_number %></td>
-        <td><%= student.section %></td>
+        <td><%= student.sections%></td>
         <td><%= link_to 'Show', student %></td>
         <td><%= link_to 'Edit', edit_student_path(student) %></td>
         <td><%= link_to 'Destroy', student, method: :delete, data: { confirm: 'Are you sure?' } %></td>
@@ -25,6 +26,7 @@
     <% end %>
   </tbody>
 </table>
+
 
 <br>
 

@@ -23,7 +23,7 @@
 
   <div class="field">
     <%= form.label :section%>
-    <%= form.collection_select :section_id, Section.all, :id, :to_s %>
+    <%= form.collection_check_boxes :section_id, Section.all, :id, :to_s %>
   </div>
 
 
