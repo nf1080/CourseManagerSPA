@@ -17,6 +17,16 @@
   </div>
 
   <div class="field">
+  <%= form.label :email %>
+  <%= form.text_field :email %>
+</div>
+
+  <div class="field">
+    <%= form.label :password %>
+    <%= form.text_field :password %>
+  </div>
+
+  <div class="field">
     <%= form.label :stu_number %>
     <%= form.number_field :stu_number %>
   </div>
@@ -24,6 +34,7 @@
   <div class="field">
     <%= form.label :section%>
     <%= form.collection_check_boxes :section_id, Section.all, :id, :to_s %>
+    <br>
   </div>
 
 
