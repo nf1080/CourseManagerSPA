@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c55f3288-5d42-40be-89eb-16e1e01262c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/sections/_section.json.jbuilder" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/sections/_section.json.jbuilder" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/students/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/students/_form.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/students/_student.json.jbuilder" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/students/_student.json.jbuilder" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/students/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/students/index.html.erb" afterDir="false" />
-    </list>
+    <list default="true" id="c55f3288-5d42-40be-89eb-16e1e01262c1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -313,53 +306,6 @@
             <path>
               <item name="CourseManagerSPA" type="b2602c69:ProjectViewProjectNode" />
               <item name="CourseManagerSPA" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseManagerSPA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseManagerSPA" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseManagerSPA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseManagerSPA" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseManagerSPA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseManagerSPA" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseManagerSPA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseManagerSPA" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="sections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseManagerSPA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseManagerSPA" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseManagerSPA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseManagerSPA" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseManagerSPA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseManagerSPA" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseManagerSPA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseManagerSPA" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -508,16 +454,15 @@
       <workItem from="1542079992764" duration="1000" />
       <workItem from="1543527624633" duration="1647000" />
       <workItem from="1543949045750" duration="1436000" />
-      <workItem from="1543952401330" duration="6760000" />
+      <workItem from="1543952401330" duration="6942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28068000" />
+    <option name="totallyTimeSpent" value="28250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
